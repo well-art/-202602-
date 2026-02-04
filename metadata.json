@@ -1,0 +1,5 @@
+{
+  "name": "Corporate Knowledge Base Center",
+  "description": "A secure, single-page application for managing and viewing corporate regulations, flowcharts, and forms.",
+  "requestFramePermissions": []
+}
